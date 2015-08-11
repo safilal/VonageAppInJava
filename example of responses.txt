@@ -1,0 +1,62 @@
+This is how the Extension's details response looks like:
+{
+  "details" : {
+    "presence" : {
+    }
+  },
+  "name" : "here you find the user name",
+  "phoneNumbers" : [ "I removed the actual number" ],
+  "type" : "extension",
+  "extensionNumber" : "here you find this user extension",
+  "loginName" : "here you find the username"
+}
+
+This is how Live Status reponse would looks like:
+{
+  "extensions" : [ {
+    "name" : "here you find the user name",
+    "status" : "",
+    "extension" : "here you find this user extension",
+    "duration" : -1,
+    "onCallWith" : "",
+    "phoneNumbers" : [ "I removed the actual number" ],
+    "statusItems" : {
+      "uid" : "here you find this user extension",
+      "BLF_Monitored_Extensions" : "{}",
+      "accountId" : "these are digits",
+      "lastCallTime" : "1439216265748",
+      "available" : "true",
+      "callername" : "",
+      "contactH" : "",
+      "contactM" : "",
+      "userId" : "These are digits",
+      "StartTime" : "",
+      "callStatus" : "Idle",
+      "contactF" : "",
+      "contactE" : "here you find the user email",
+      "contactD" : "here you find this user extension",
+      "loginName" : "here you find the username"
+    }
+  } ],
+  "name" : "message",
+  "type" : "event",
+  "numUnavailableExts" : 0,
+  "servicedBy" : "her you find the IP",
+  "availability" : "AVAILABLE",
+  "numAvailableExts" : 1
+}
+This is how the call history would looks like:
+[ {
+  "to" : "here you find the destination number",
+  "extension" : "here you find the user extension",
+  "timestamp" : "08/07/2015 03:08:28 PM",
+  "result" : "Answered",
+  "duration" : 8,
+  "callerId" : "here you find the name of the caller if saved in your contacts, or example of 'Cell Phone   IL'",
+  "recordingUrl" : "",
+  "direction" : "Outbound",
+  "from" : "here you find the phone number that made the call",
+  "customTag" : ""
+},{
+	Other calls history information in the format above...etc.
+} ]
