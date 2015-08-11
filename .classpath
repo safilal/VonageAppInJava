@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="C:/Users/Souhail/Documents/Alex/JavaJAlex/Eclipse Jar Files/Eclipse Jar Files/junit-4.10.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Souhail/Documents/Alex/JavaJAlex/Eclipse Jar Files/Eclipse Jar Files/jxl.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Souhail/Documents/Alex/JavaJAlex/Eclipse Jar Files/Eclipse Jar Files/mysql-connector-java-5.0.8/mysql-connector-java-5.0.8-bin.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Souhail/Documents/Alex/Scripts/VonageAPI/Java/JavaFiles/commons-codec-1.10-src.zip"/>
-	<classpathentry kind="lib" path="C:/Users/Souhail/Documents/Alex/Scripts/VonageAPI/Java/JavaFiles/commons-logging-1.2-src.zip"/>
-	<classpathentry kind="lib" path="C:/Users/Souhail/Documents/Alex/Scripts/VonageAPI/Java/commons-io-1.3.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Souhail/Documents/Alex/Scripts/VonageAPI/Java/servlet-api-3.0-alpha-1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Souhail/Documents/Alex/Scripts/VonageAPI/Java/JavaFiles/httpcomponents-client-4.5-src.zip"/>
-	<classpathentry kind="lib" path="C:/Users/Souhail/Documents/Alex/Scripts/VonageAPI/Java/JavaFiles/apache-httpcomponents-httpclient.jar.zip"/>
+	
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/Souhail/Documents/Alex/JavaJAlex/Eclipse Jar Files/Eclipse Jar Files/selenium-2.41.0/libs/httpclient-4.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Souhail/Documents/Alex/JavaJAlex/Eclipse Jar Files/Eclipse Jar Files/selenium-2.41.0/libs/httpcore-4.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Souhail/Documents/Alex/JavaJAlex/Eclipse Jar Files/Eclipse Jar Files/selenium-2.41.0/libs/commons-logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/Souhail/Documents/Alex/JavaJAlex/Eclipse Jar Files/Eclipse Jar Files/selenium-2.41.0/selenium-java-2.41.0-srcs.jar"/>
+	
 	<classpathentry kind="output" path="bin"/>
 </classpath>
